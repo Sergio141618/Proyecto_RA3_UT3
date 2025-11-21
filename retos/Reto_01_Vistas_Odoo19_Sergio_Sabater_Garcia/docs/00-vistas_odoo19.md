@@ -1,5 +1,5 @@
-# Vistas en Odoo 19 — {Nombre Apellidos}
-**Reto:** Reto_01_Vistas_Odoo19_{Nombre}_{Apellidos}  
+# Vistas en Odoo 19 — Sergio Sabater García
+**Reto:** Reto_01_Vistas_Odoo19_Sergio_Sabater_Garcia
 **Proyecto:** Proyecto_RA3_UT3  
 **Fecha:** 2025-11-21
 
